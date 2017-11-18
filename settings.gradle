@@ -1,2 +1,2 @@
-include ':app', ':okhttpdemo', ':retrofitdemo', ':rxjava2demo', ':rxjavaoperate', ':drawdemo', ':animationdemo', ':customdemo', ':dagger2demo', ':ndkdemo'
+include ':app', ':okhttpdemo', ':retrofitdemo', ':rxjava2demo', ':rxjavaoperate', ':drawdemo', ':animationdemo', ':customdemo', ':dagger2demo', ':ndkdemo', ':aidldemo'
 

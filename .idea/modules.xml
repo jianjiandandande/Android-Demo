@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidDemo.iml" filepath="$PROJECT_DIR$/AndroidDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidDemo-master.iml" filepath="$PROJECT_DIR$/AndroidDemo-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Android_Demo.iml" filepath="$PROJECT_DIR$/Android_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidldemo/aidldemo.iml" filepath="$PROJECT_DIR$/aidldemo/aidldemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/animationdemo/animationdemo.iml" filepath="$PROJECT_DIR$/animationdemo/animationdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/customdemo/customdemo.iml" filepath="$PROJECT_DIR$/customdemo/customdemo.iml" />
