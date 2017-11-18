@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vincent.drawdemo.MainActivity">
+
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/image1"/>
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/layer_resource"
+        android:id="@+id/image2"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/image1"/>
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/image3"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/image2"
+        android:layout_marginTop="20dp"/>
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/image4"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/image3"/>
+
+</RelativeLayout>

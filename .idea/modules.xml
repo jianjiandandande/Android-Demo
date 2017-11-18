@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidDemo.iml" filepath="$PROJECT_DIR$/AndroidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidDemo-master.iml" filepath="$PROJECT_DIR$/AndroidDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android_Demo.iml" filepath="$PROJECT_DIR$/Android_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animationdemo/animationdemo.iml" filepath="$PROJECT_DIR$/animationdemo/animationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customdemo/customdemo.iml" filepath="$PROJECT_DIR$/customdemo/customdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dagger2demo/dagger2demo.iml" filepath="$PROJECT_DIR$/dagger2demo/dagger2demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawdemo/drawdemo.iml" filepath="$PROJECT_DIR$/drawdemo/drawdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndkdemo/ndkdemo.iml" filepath="$PROJECT_DIR$/ndkdemo/ndkdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" filepath="$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" filepath="$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava2demo/rxjava2demo.iml" filepath="$PROJECT_DIR$/rxjava2demo/rxjava2demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavaoperate/rxjavaoperate.iml" filepath="$PROJECT_DIR$/rxjavaoperate/rxjavaoperate.iml" />
+    </modules>
+  </component>
+</project>
