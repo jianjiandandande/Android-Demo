@@ -8,7 +8,7 @@
 将会接收到客户端传来对象的完整信息，并且客户端将会同步服务端对该对象的任何变动。
 
 ## transact与 onTransact
-[AIDL中的transact与 onTransact原理]()
+[AIDL中的transact与 onTransact原理](http://blog.csdn.net/luoyanglizi/article/details/52029091)
 
 
 
